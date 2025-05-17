@@ -1,0 +1,14 @@
+{
+  "name": "ina219",
+  "version": "0.0.1",
+  "description": "INA219 current and voltage sensor",
+  "dependencies": {},
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "testFiles": [],
+  "supportedTargets": [
+    "microbit"
+  ]
+}
